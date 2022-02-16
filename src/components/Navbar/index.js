@@ -36,3 +36,5 @@ const NavbarContaner = styled.div`
     height: 80px;
     z-index:;
 `
+const NavLogo = styled.div`
+`
